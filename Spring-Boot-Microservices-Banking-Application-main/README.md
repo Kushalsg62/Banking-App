@@ -5,10 +5,8 @@
 - [🏛️ Architecture](#-architecture)
 - [🚀 Microservices](#-microservices)
 - [🚀 Getting Started](#-getting-started)
-- [📖 Documentation](#-documentation)
 - [⌚ Future Enhancement](#-future-enhancement)
 - [🤝 Contribution](#-contribution)
-- [📞 Contact Information](#-contact-information)
 
 ## 🔍 About
 <p>
@@ -60,10 +58,6 @@ For detailed information about each microservice, refer to their respective READ
 
 For a detailed guide on API endpoints and usage instructions, explore our comprehensive [API Documentation](https://app.theneo.io/student/spring-boot-microservices-banking-application). This centralized resource offers a holistic view of the entire banking application, making it easier to understand and interact with various services.
 
-<h3>📚 Java Documentation (JavaDocs)</h3>
-
-Explore the linked [Java Documentation](https://kartik1502.github.io/Spring-Boot-Microservices-Banking-Application/) to delve into detailed information about classes, methods, and variables across all microservices. These resources are designed to empower developers by providing clear insights into the codebase and facilitating seamless development and maintenance tasks.
-
 ## ⌚ Future Enhancement
 
 As part of our ongoing commitment to improving the banking application, we are planning several enhancements to enrich user experience and expand functionality:
@@ -79,12 +73,5 @@ Contributions to this project are welcome! Feel free to open issues, submit pull
 Let's build a robust and efficient banking system together using Spring Boot microservices!
 
 Happy Banking! 🏦💰
-
-<h2>📞 Contact Information</h2>
-
-If you have any questions, feedback, or need assistance with this project, please feel free to reach out to me:
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6361921186)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikkulkarni1411@gmail.com)
 
 We appreciate your interest in our project and look forward to hearing from you. Happy coding!
